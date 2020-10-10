@@ -1,3 +1,3 @@
 # reallynidhi.github.io
 
-The site is available at - https://reallynidhi.github.io/index.html. Hosted using Github Pages.
+The site is available at - https://reallynidhi.github.io/. Hosted using Github Pages.
